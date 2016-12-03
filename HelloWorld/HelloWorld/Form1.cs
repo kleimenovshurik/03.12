@@ -20,5 +20,10 @@ namespace HelloWorld
         {
             textBox1.Text = "HelloWorld";
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            textBox1.Text = "Belka";
+        }
     }
 }
