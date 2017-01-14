@@ -23,7 +23,7 @@ namespace HelloWorld
 
         private void button2_Click(object sender, EventArgs e)
         {
-            textBox1.Text = "Belka";
+            textBox1.Text = "Belka - ест орешки, а скорлупки золотые";
         }
     }
 }
