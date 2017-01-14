@@ -14,3 +14,9 @@ C:\Users\Александр\Desktop\03.12(2)\03.12\HelloWorld\HelloWorld\bin\Deb
 C:\Users\Александр\Desktop\03.12(2)\03.12\HelloWorld\HelloWorld\obj\x86\Debug\HelloWorld.Form1.resources
 C:\Users\Александр\Desktop\03.12(2)\03.12\HelloWorld\HelloWorld\obj\x86\Debug\HelloWorld.Properties.Resources.resources
 C:\Users\Александр\Desktop\03.12(2)\03.12\HelloWorld\HelloWorld\obj\x86\Debug\HelloWorld.csproj.GenerateResource.Cache
+C:\Users\Александр\Desktop\03.12\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
+C:\Users\Александр\Desktop\03.12\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
+C:\Users\Александр\Desktop\03.12\HelloWorld\HelloWorld\obj\x86\Debug\HelloWorld.csprojResolveAssemblyReference.cache
+C:\Users\Александр\Desktop\03.12\HelloWorld\HelloWorld\obj\x86\Debug\HelloWorld.Form1.resources
+C:\Users\Александр\Desktop\03.12\HelloWorld\HelloWorld\obj\x86\Debug\HelloWorld.Properties.Resources.resources
+C:\Users\Александр\Desktop\03.12\HelloWorld\HelloWorld\obj\x86\Debug\HelloWorld.csproj.GenerateResource.Cache
